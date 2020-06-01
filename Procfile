@@ -1,2 +1,2 @@
-web: python bot.py
-web: python bot_telegramm.py
+worker: python bot.py
+worker: python bot_telegramm.py
